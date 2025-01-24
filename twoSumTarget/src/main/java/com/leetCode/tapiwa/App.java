@@ -11,7 +11,7 @@ public class App
     public static void main( String[] args )
     {
         // System.out.println( "Hello World!" );
-	int[] arr = {7, 5, 6, 3, 8, 9, 10};
+	int[] arr = {7, 5, 6, 11, 8, 9, 10, 3};
 	int target = 10;
 	// System.out.printf("\nBefore swap: %s\n", Arrays.toString(arr));
 	// TwoSumTarget.swap(arr);
