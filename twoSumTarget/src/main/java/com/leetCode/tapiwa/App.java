@@ -16,6 +16,6 @@ public class App
 	// System.out.printf("\nBefore swap: %s\n", Arrays.toString(arr));
 	// TwoSumTarget.swap(arr);
 	// System.out.printf("After swap: %s\n", Arrays.toString(arr));
-	System.out.printf("twoSumTarget(%s, %d): %s\n", Arrays.toString(arr), target, Arrays.toString(TwoSumTarget.twoSumTarget(arr, target)));
+	System.out.printf("\ntwoSumTarget(%s, %d): %s\n", Arrays.toString(arr), target, Arrays.toString(TwoSumTarget.twoSumTarget(arr, target)));
     }
 }
